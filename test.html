@@ -1,0 +1,42 @@
+<script>
+    const body = document.body,
+    html = document.documentElement;
+
+    const height = Math.max( body.scrollHeight, body.offsetHeight, 
+                       html.clientHeight, html.scrollHeight, html.offsetHeight );
+    const pageHeight = window.innerHeight
+    const buttonGetCode = document.createElement('div')
+    buttonGetCode.innerText = 'Lấy Mã'
+    buttonGetCode.style.padding = '5px 10px'
+    buttonGetCode.style.color = 'white'
+    buttonGetCode.style.backgroundColor = 'red'
+    buttonGetCode.style.position = 'absolute'
+    buttonGetCode.style.right = '0'
+    buttonGetCode.style.top = height - 40 + "px" 
+    buttonGetCode.style.cursor = 'pointer'
+    buttonGetCode.style.minWidth = '100px'
+    buttonGetCode.style.textAlign = 'center'
+   
+
+
+    document.body.appendChild(buttonGetCode)
+
+    const myClick = buttonGetCode.addEventListener('click', () => {
+        buttonGetCode.removeEventListener('click', myClick)
+        let timeStart = 3
+        buttonGetCode.innerText = timeStart
+
+        const countDown = () => {
+            const countDownInterval = setInterval(()=>{
+                if(document.visibilityState == 'visible'){
+                    timeStart -= 1
+                    buttonGetCode.innerText = timeStart
+                    if(timeStart == 0){
+                        clearInterval(countDownInterval)
+                        buttonGetCode.innerText = "aebet"
+                    }
+                }
+            }, 1000)
+        }
+        countDown()
+  },{once: true})</script>

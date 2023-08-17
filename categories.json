@@ -1,0 +1,671 @@
+[{
+  "_id": {
+    "$oid": "63ddd537ac0961e581c8804b"
+  },
+  "name": "Khóa học mới nhất",
+  "parent": [],
+  "path": "khoa-hoc-moi-nhat",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482423167"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482423167"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd545ac0961e581c88051"
+  },
+  "name": "Khóa học nổi bật",
+  "parent": [],
+  "path": "khoa-hoc-noi-bat",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482437902"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482437902"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd574ac0961e581c88057"
+  },
+  "name": "Khóa học xem nhiều nhất",
+  "parent": [],
+  "path": "khoa-hoc-xem-nhieu-nhat",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482484755"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482484755"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd591ac0961e581c8805d"
+  },
+  "name": "Học sinh Cấp 1 - Cấp 2 - Cấp 3",
+  "parent": [],
+  "path": "hoc-sinh-cap-1-cap-2-cap-3",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482513064"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482513064"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd5d9ac0961e581c88071"
+  },
+  "name": "Tài Liệu - Khóa Học Sinh Viên",
+  "parent": [],
+  "path": "tai-lieu-khoa-hoc-sinh-vien",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482585312"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482585312"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd5eeac0961e581c88077"
+  },
+  "name": "Luyện thi đại học",
+  "parent": [],
+  "path": "luyen-thi-dai-hoc",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482606920"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482606920"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd6850285db136848f465"
+  },
+  "name": "Ngoại ngữ",
+  "parent": [],
+  "path": "ngoai-ngu",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482757386"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482757386"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd6990285db136848f46b"
+  },
+  "name": "Marketing - Truyền thông",
+  "parent": [],
+  "path": "marketing-truyen-thong",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482777107"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482777107"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd6a60285db136848f471"
+  },
+  "name": "Kinh doanh",
+  "parent": [],
+  "path": "kinh-doanh",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482790140"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482790140"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd6b50285db136848f477"
+  },
+  "name": "Khởi nghiệp",
+  "parent": [],
+  "path": "khoi-nghiep",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482805713"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482805713"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd6cb0285db136848f47d"
+  },
+  "name": "Khóa học Kỹ Năng Mềm - Tặng miễn phí 100%",
+  "parent": [],
+  "path": "khoa-hoc-ky-nang-mem-tang-mien-phi-100",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482827843"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482827843"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd6dd0285db136848f483"
+  },
+  "name": "Lập Trình",
+  "parent": [],
+  "path": "lap-trinh",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482845240"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482845240"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd6ed0285db136848f489"
+  },
+  "name": "Phát triển bản thân",
+  "parent": [],
+  "path": "phat-trien-ban-than",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482861311"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482861311"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ddd6fe0285db136848f48f"
+  },
+  "name": "Bất động sản",
+  "parent": [],
+  "path": "bat-dong-san",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675482878936"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675482878936"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63dde28c5ef1b52663cc8fe5"
+  },
+  "name": "Học sinh lớp 1",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675485837007"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675485837007"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de06ffb7d83a8614a291d9"
+  },
+  "name": "Học sinh lớp 2",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-2",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675495167463"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675495167463"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0743b7d83a8614a291df"
+  },
+  "name": "Học sinh lớp 3",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-3",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675495235164"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675495235164"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de074db7d83a8614a291e3"
+  },
+  "name": "Học sinh lớp 4",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-4",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675495245331"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675495302368"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0752b7d83a8614a291e7"
+  },
+  "name": "Học sinh lớp 5",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-5",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675495250014"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675495250014"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0756b7d83a8614a291eb"
+  },
+  "name": "Học sinh lớp 6",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-6",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675495254483"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675495254483"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0759b7d83a8614a291ef"
+  },
+  "name": "Học sinh lớp 7",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-7",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675495257799"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675495257799"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de075db7d83a8614a291f3"
+  },
+  "name": "Học sinh lớp 8",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-8",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675495261320"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675495261320"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0761b7d83a8614a291f7"
+  },
+  "name": "Học sinh lớp 9",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-9",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675495265696"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675495265696"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0767b7d83a8614a291fb"
+  },
+  "name": "Học sinh lớp 10",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-10",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675495271523"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675495271523"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de076cb7d83a8614a291ff"
+  },
+  "name": "Học sinh lớp 11",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-11",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675495276661"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675495276661"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0770b7d83a8614a29203"
+  },
+  "name": "Học sinh lớp 12",
+  "parent": [
+    {
+      "$oid": "63ddd591ac0961e581c8805d"
+    }
+  ],
+  "path": "hoc-sinh-lop-12",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675495280364"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675495280364"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0ab79ad2e0c464c3a881"
+  },
+  "name": "Tiếng Việt 1",
+  "parent": [
+    {
+      "$oid": "63dde28c5ef1b52663cc8fe5"
+    }
+  ],
+  "path": "tieng-viet-1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675496119886"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675496119886"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0ae89ad2e0c464c3a887"
+  },
+  "name": "Tiếng Việt 2",
+  "parent": [
+    {
+      "$oid": "63de06ffb7d83a8614a291d9"
+    }
+  ],
+  "path": "tieng-viet-2",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675496168412"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675496168412"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0b239ad2e0c464c3a88d"
+  },
+  "name": "Toán 1",
+  "parent": [
+    {
+      "$oid": "63dde28c5ef1b52663cc8fe5"
+    }
+  ],
+  "path": "toan-1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675496227943"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675496227943"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0b379ad2e0c464c3a893"
+  },
+  "name": "Tự nhiên & Xã hội 1",
+  "parent": [
+    {
+      "$oid": "63dde28c5ef1b52663cc8fe5"
+    }
+  ],
+  "path": "tu-nhien-xa-hoi-1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675496247161"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675496247161"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0b4c9ad2e0c464c3a899"
+  },
+  "name": "Tiếng Anh 1",
+  "parent": [
+    {
+      "$oid": "63dde28c5ef1b52663cc8fe5"
+    }
+  ],
+  "path": "tieng-anh-1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675496268573"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675496268573"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0b919ad2e0c464c3a89f"
+  },
+  "name": "Môn khác lớp 1",
+  "parent": [
+    {
+      "$oid": "63dde28c5ef1b52663cc8fe5"
+    }
+  ],
+  "path": "mon-khac-lop-1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675496337411"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675496337411"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63de0bad9ad2e0c464c3a8a5"
+  },
+  "name": "Đề thi lớp 1",
+  "parent": [
+    {
+      "$oid": "63dde28c5ef1b52663cc8fe5"
+    }
+  ],
+  "path": "de-thi-lop-1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675496365901"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675496365901"
+    }
+  },
+  "__v": 0
+}]
